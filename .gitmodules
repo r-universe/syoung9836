@@ -2,10 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "kadmin"]
-	path = kadmin
-	url = https://github.com/SYOUNG9836/kadmin
-	registered = false
 [submodule "knfi"]
 	path = knfi
 	url = https://github.com/syoung9836/knfi
